@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  color: black;
+}
+.card {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  border: none !important;
+}
+.row {
+  width: 100%;
+}
+.card-body img {
+  display: inline-block;
+  vertical-align: middle;
+}
+.card-body h4 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 115px;
+  color: white;
+}
+.card-body p {
+  color: white !important;
+  padding-top: 5px;
+}
+.cards h1 {
+  font-size: 70px !important;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+}
+.meteo {
+  text-align: left;
+  padding-bottom: 100px;
+  padding-top: 20px;
+  color: white;
+}
+.cards .city {
+  padding-bottom: 20px;
+}
+.dropdown {
+  padding-top: 50px;
+}
+.cards h2 {
+  color: white;
+  padding-bottom: 20px !important;
+  font-size: 50px;
+}
+.btn {
+  width: 250px !important;
+  height: 70px !important;
+  border-radius: 8px !important;
+}
